@@ -4,7 +4,7 @@ while(number > 1){
     number--;
 }
 
-// var number = 10;
-// for(var i =10; i >=1; i--){
-//     console.log(i);
-// }
+var number = 10;
+for(var i =10; i >=1; i--){
+    console.log(i);
+}
